@@ -1,0 +1,262 @@
+-	ー
+~	〜
+.	。
+,	、
+z/	・
+z.	…
+z,	‥
+zh	←
+zj	↓
+zk	↑
+zl	→
+z-	〜
+z[	『
+z]	』
+[	「
+]	」
+
+h	あ
+k	い
+j	う
+;	え
+l	お
+
+dh	か
+dk	き
+dj	く
+d;	け
+dl	こ
+
+fh	さ
+fk	し
+fj	す
+f;	せ
+fl	そ
+
+gh	た
+gk	ち
+gj	つ
+g;	て
+gl	と
+
+eh	な
+ek	に
+ej	ぬ
+e;	ね
+el	の
+
+sh	は
+sk	ひ
+sj	ふ
+s;	へ
+sl	ほ
+
+wh	ま
+wk	み
+wj	む
+w;	め
+wl	も
+
+ah	や
+ak	いぃ
+aj	ゆ
+a;	いぇ
+al	よ
+
+rh	ら
+rk	り
+rj	る
+r;	れ
+rl	ろ
+
+xh	わ
+xk	ゐ
+xbk	うぃ
+xj	う
+x;	ゑ
+xb;	うぇ
+xl	を
+xbl	うぉ
+
+qh	が
+qk	ぎ
+qj	ぐ
+q;	げ
+ql	ご
+
+zh	ざ
+zk	じ
+zj	ず
+z;	ぜ
+zl	ぞ
+
+vh	だ
+vk	ぢ
+vj	づ
+v;	で
+vl	ど
+
+ch	ば
+ck	び
+cj	ぶ
+c;	べ
+cl	ぼ
+
+th	ぱ
+tk	ぴ
+tj	ぷ
+t;	ぺ
+tl	ぽ
+
+du	きゃ
+di	きゅ
+dbj	きゅ
+do	きょ
+
+dbh	くぁ
+dbk	くぃ
+db;	くぇ
+dbl	くぉ
+
+dxh	くゎ
+
+qu	ぎゃ
+qi	ぎゅ
+qbj	ぎゅ
+qo	ぎょ
+
+qbh	ぐぁ
+qbk	ぐぃ
+qb;	ぐぇ
+qbl	ぐぉ
+
+qxh	ぐゎ
+
+fu	しゃ
+fbh	しゃ
+fi	しゅ
+fbj	しゅ
+fb;	しぇ
+fo	しょ
+
+fbk	すぃ
+
+zu	じゃ
+zbh	じゃ
+zi	じゅ
+zbj	じゅ
+zb;	じぇ
+zo	じょ
+
+zbk	ずぃ
+
+gu	ちゃ
+gi	ちゅ
+gb;	ちぇ
+go	ちょ
+
+gbh	つぁ
+gxh	つぁ
+gxk	つぃ
+gx;	つぇ
+gxl	つぉ
+gbl	つぉ
+
+gbk	てぃ
+gbi	てゅ
+
+gbj	とぅ
+
+vu	ぢゃ
+vbh	ぢゃ
+vi	ぢゅ
+vb;	ぢぇ
+vo	ぢょ
+vbl	ぢょ
+
+vbk	でぃ
+vbj	どぅ
+vbi	でゅ
+
+eu	にゃ
+ebh	にゃ
+ei	にゅ
+ebj	にゅ
+eb;	にぇ
+eo	にょ
+ebl	にょ
+
+su	ひゃ
+si	ひゅ
+so	ひょ
+
+sbh	ふぁ
+sbk	ふぃ
+sb;	ふぇ
+sbl	ふぉ
+sbi	ふゅ
+sゅi	ふゅう
+
+cu	びゃ
+cbh	びゃ
+ci	びゅ
+cbk	びゅ
+cb;	びぇ
+co	びょ
+cbl	びょ
+
+tu	ぴゃ
+tbh	ぴゃ
+ti	ぴゅ
+tbk	ぴゅ
+tb;	ぴぇ
+to	ぴょ
+tbl	ぴょ
+
+wu	みゃ
+wbh	みゃ
+wi	みゅ
+wbk	みゅ
+wb;	みぇ
+wo	みょ
+wbl	みょ
+
+au	や
+ai	ゆ
+ao	よ
+
+ru	りゃ
+rbh	りゃ
+ri	りゅ
+rbk	りゅ
+rb;	りぇ
+ro	りょ
+rbl	りょ
+
+y	う゛
+
+bh	ぁ
+bk	ぃ
+bj	ぅ
+b;	ぇ
+bl	ぉ
+bxh	ゎ
+m	っ
+btj	っ
+bu	ゃ
+bi	ゅ
+bo	ょ
+u	ゃ
+i	ゅ
+o	ょ
+
+n	ん
+p	ー
+
+vf	で
+vfd	ですか
+wf	ま
+wfd	ますか
+wfn	ません
+vd	でき
+ve	でな
